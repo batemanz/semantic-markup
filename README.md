@@ -1,8 +1,8 @@
 # Horiseon Semantic HTML markup Homework
 During this project we learned about semantic HTML markup and how to make the html more readable with more precise html elements instead of using the general DIV tag.
 
-clicking each link in the nav bar will bring you to the area of the page that pertains to that link
-hovering over the main image and emoji gives you a desciptive text
+clicking each link in the nav bar will bring you to the area of the page that pertains to that link,
+hovering over the main image and emoji gives you a descriptive text
 the rest of the images have alt attributes to allow a description in the event the image fails to load.
 
 ## Images
